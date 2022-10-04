@@ -60,3 +60,8 @@ import matplotlib.pyplot as plt
 plt.style.use('ggplot')
 from matplotlib.pyplot import figure
 ```
+![](sc1.png)
+
+![](sc2.png)
+
+![](sc3.png)
